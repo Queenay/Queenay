@@ -35,12 +35,4 @@ Hello! I’m Nayna, a tech enthusiast with **dual Master’s degrees** in **Info
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Queenay&layout=compact&theme=radical)
-
----
-
-## 📫 Let's Connect!
-
-- **Email**: naynamoni@gmail.com  
-- **Location**: Wellington, New Zealand  
-- **LinkedIn**: [linkedin.com/in/naynaannmoni/](https://www.linkedin.com/in/naynaannmoni/)  
-- **GitHub**: [github.com/Queenay](https://github.com/Queenay)  
+  
