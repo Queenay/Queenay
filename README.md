@@ -23,7 +23,7 @@ Hello! I’m Nayna, a tech enthusiast with **dual Master’s degrees** in **Info
 - Led a team to build an e-commerce website using **Agile** and **Extreme Programming**
 - Set up the database and implemented search filters on the 'shop' page
 
-### [📊 Diabetic Patients History Data Mining](https://github.com/Queenay/diabetic-data-analysis)
+### [📊 Diabetic Patients History Data Mining](https://github.com/Queenay/patient-readmission-data-analysis)
 - Analyzed patient admission data to predict **hospital readmission rates**
 - Used **Decision Tree**, **Logistic Regression**, and **Random Forest** algorithms
 
