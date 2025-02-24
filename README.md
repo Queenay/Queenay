@@ -19,6 +19,11 @@ Hello! I’m Nayna, a tech enthusiast with **dual Master’s degrees** in **Info
 
 ## 🌟 Featured Projects
 
+### [📊 Sales Data Analysis (Power BI + SQL](https://naynamoni.wixsite.com/nayna-ann-1/sales-data-analysis)
+- Sourced, cleaned, and analyzed sales data using **SQL** to derive meaningful insights.
+- Designed and developed interactive **Power BI** dashboards to visualize sales trends, product performance, and customer demand.
+- Implemented business demand analysis, tracking KPIs such as revenue growth, sales performance, and market trends.
+
 ### [📦 E-Commerce Website](https://embusshajan.wixsite.com/website/shop)
 - Led a team to build an e-commerce website using **Agile** and **Extreme Programming**
 - Set up the database and implemented search filters on the 'shop' page
@@ -27,7 +32,7 @@ Hello! I’m Nayna, a tech enthusiast with **dual Master’s degrees** in **Info
 - Analyzed patient admission data to predict **hospital readmission rates**
 - Used **Decision Tree**, **Logistic Regression**, and **Random Forest** algorithms
 
-### [📄 IEEE AFRICON Paper Presentation](https://ieeexplore.ieee.org/document/9133829)
+### [📄 IEEE AFRICON Conference Paper](https://ieeexplore.ieee.org/document/9133829)
 - Co-authored and presented a paper titled **"Water Leak Detection from Irrigation Pipelines in Botswana using Vibration Interpretation Technique"**
 - Skills: Algorithm Development, Data Analysis, Technical Documentation
 
