@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/naynaannmoni/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Queenay)
 
-Hello! I’m Nayna, a tech enthusiast with **dual Master’s degrees** in **Information Technology** and **Business Administration**, coupled with hands-on **IT experience**. I thrive in dynamic environments, excel in analyzing business processes, delivering impactful insights, and solving complex problems with **Power BI**, **SQL Server**, and a passion for continuous learning.
+Hello! I’m Nayna, a tech enthusiast with a **dual Master’s degrees** in **Information Technology** and **Business Administration**. A motivated self-starter with a passion for technology and problem-solving. I am a strong communicator with a creative mindset and a drive to learn and grow. I am team-oriented and able to thrive in fast-paced environments. I love solving puzzles in my free time and have a passion for continuous learning.
 
 ---
 
