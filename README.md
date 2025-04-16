@@ -18,7 +18,7 @@ Hello! I’m Nayna, a tech enthusiast with a **dual Master’s degrees** in **In
 
 ## Featured Projects
 
-### [Sales Data Analysis (Power BI + SQL](https://naynamoni.wixsite.com/nayna-ann-1/sales-data-analysis)
+### [Sales Data Analysis (Power BI + SQL)](https://naynamoni.wixsite.com/nayna-ann-1/sales-data-analysis)
 - Sourced, cleaned, and analyzed sales data using **SQL** to derive meaningful insights.
 - Designed and developed interactive **Power BI** dashboards to visualize sales trends, product performance, and customer demand.
 - Implemented business demand analysis, tracking KPIs such as revenue growth, sales performance, and market trends.
